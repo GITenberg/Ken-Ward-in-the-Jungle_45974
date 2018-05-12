@@ -1,0 +1,35 @@
+_repo: Ken-Ward-in-the-Jungle_45974
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45974-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Grey, Zane
+    aliases:
+    - Gray, Pearl Zane
+    - Gray, Zane
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '212'
+    url: http://www.gutenberg.org/2009/agents/212
+    wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
+description: In this rousing 1912 adventure, the Ward brothers, Ken and rambunctious
+  Hal, set out to follow the Santa Rosa River as it winds through the uncharted jungles
+  of Mexico. At stake is a contest &#150; and the top prize is a trip to Africa. But
+  in this contest, losing might mean death.
+gutenberg_issued: '2014-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45974'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Jungles -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Tamaulipas (Mexico : State) -- Juvenile fiction'
+title: Ken Ward in the Jungle
+url: http://www.gutenberg.org/ebooks/45974
